@@ -12,7 +12,7 @@ Further readinf : https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 
 You also need to import urllib2 , this is already in the code
 
-Webretriever has a few options to scrape all links on the page , all <a> tags.
+Webretriever has a few options to scrape all links on the page , all <a> tags and text where visible.
  
  Instructions :
  1. Run the script using python webRetriever.py
